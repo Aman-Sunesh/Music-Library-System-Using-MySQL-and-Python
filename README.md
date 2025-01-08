@@ -21,8 +21,10 @@ Download and install Python from [python.org](https://www.python.org/downloads/)
     ```bash
     brew install mysql
     ```
+    
 - **For Windows:**
     - Download and install [MySQL Community Server](https://dev.mysql.com/downloads/mysql/).
+      
 - **For Linux (Ubuntu/Debian-based systems):**
     ```bash
     sudo apt update
