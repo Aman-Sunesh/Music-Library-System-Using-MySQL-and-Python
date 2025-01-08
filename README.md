@@ -258,11 +258,8 @@ Upon starting the application, users are prompted to either register or log in.
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements or additional features. Whether it's enhancing the algorithm, optimizing performance, or adding new functionalities, your contributions are valuable.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
-- MySQL Connector/Python Documentation
-- Pygame Documentation
-- Hashlib Documentation
-- Python Documentation
+- [MySQL Connector/Python Documentation](https://dev.mysql.com/doc/connector-python/en/)
+- [Pygame Documentation](https://www.pygame.org/docs/)
+- [Hashlib Documentation](https://docs.python.org/3/library/hashlib.html)
+- [Python Documentation](https://docs.python.org/3/)
